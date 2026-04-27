@@ -1,18 +1,30 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        vector<vector<int>> ans;
         int n = nums.size();
-        int cnt = 0;
-        for(int i=0; i<n; i++){
-            int sum=0;
-            for(int j=i; j<n; j++){
-                sum+= nums[j];
-                if(sum == k){
-                    cnt++;
-                }
-            }
+        vector<int> prefixSum(n);
+
+        // store prefix sum of them in vecotr
+        prefixSum[0] = nums[0];
+        for(int i=1; i<n; i++){
+            prefixSum[i] = prefixSum[i-1] + nums[i];
         }
-        return cnt;
+        
+        int count = 0; // no. of subarrays
+        unordered_map<int, int> hash; // prefixSum, frequency
+        for(int j=0; j<n; j++){
+            if(prefixSum[j] == k) count++;
+
+            int val = prefixSum[j] - k;
+            if(hash.find(val) != hash.end()){
+                count += hash[val];
+            }
+
+            if(hash.find(prefixSum[j]) == hash.end()){
+                hash[prefixSum[j]] = 0;
+            }
+            hash[prefixSum[j]]++;
+        }
+        return count;
     }
 };
