@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ometiwari-ai/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ometiwari-ai/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ometiwari-ai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/ometiwari-ai/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ometiwari-ai/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ometiwari-ai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/ometiwari-ai/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ometiwari-ai/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/ometiwari-ai/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ometiwari-ai/LeetCode/tree/master/0119-pascals-triangle-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ometiwari-ai/LeetCode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ometiwari-ai/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
