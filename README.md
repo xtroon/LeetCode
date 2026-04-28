@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/ometiwari-ai/LeetCode/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/ometiwari-ai/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ometiwari-ai/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ometiwari-ai/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/ometiwari-ai/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -31,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ometiwari-ai/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ometiwari-ai/LeetCode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
