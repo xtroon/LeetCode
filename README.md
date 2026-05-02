@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ometiwari-ai/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/ometiwari-ai/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/ometiwari-ai/LeetCode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/ometiwari-ai/LeetCode/tree/master/0788-rotated-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/ometiwari-ai/LeetCode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/ometiwari-ai/LeetCode/tree/master/0788-rotated-digits) |
 ## Binary Search
 |  |
 | ------- |
