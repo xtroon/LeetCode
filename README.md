@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ometiwari-ai/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ometiwari-ai/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ometiwari-ai/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/ometiwari-ai/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/ometiwari-ai/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ometiwari-ai/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ometiwari-ai/LeetCode/tree/master/0118-pascals-triangle) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ometiwari-ai/LeetCode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/ometiwari-ai/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/ometiwari-ai/LeetCode/tree/master/0788-rotated-digits) |
 ## Binary Search
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ometiwari-ai/LeetCode/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ometiwari-ai/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
