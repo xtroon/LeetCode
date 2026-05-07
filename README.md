@@ -65,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ometiwari-ai/LeetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/ometiwari-ai/LeetCode/tree/master/0069-sqrtx) |
 | [0396-rotate-function](https://github.com/ometiwari-ai/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/ometiwari-ai/LeetCode/tree/master/0788-rotated-digits) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ometiwari-ai/LeetCode/tree/master/0069-sqrtx) |
 | [0493-reverse-pairs](https://github.com/ometiwari-ai/LeetCode/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
