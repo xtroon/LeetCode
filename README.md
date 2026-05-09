@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ometiwari-ai/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ometiwari-ai/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ometiwari-ai/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ometiwari-ai/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,4 +121,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ometiwari-ai/LeetCode/tree/master/0048-rotate-image) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ometiwari-ai/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/ometiwari-ai/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 <!---LeetCode Topics End-->
