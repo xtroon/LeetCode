@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ometiwari-ai/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ometiwari-ai/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ometiwari-ai/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ometiwari-ai/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/ometiwari-ai/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ometiwari-ai/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
