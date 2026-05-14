@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ometiwari-ai/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ometiwari-ai/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ometiwari-ai/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/ometiwari-ai/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ometiwari-ai/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/ometiwari-ai/LeetCode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/ometiwari-ai/LeetCode/tree/master/1108-defanging-an-ip-address) |
 ## String Matching
