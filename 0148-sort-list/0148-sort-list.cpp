@@ -10,32 +10,39 @@
  */
 class Solution {
 public:
-    ListNode* merge(ListNode* list1, ListNode* list2){
+
+    ListNode* merge(ListNode* left, ListNode* right){
         ListNode* dummy = new ListNode(-1);
         ListNode* temp = dummy;
-
-        while(list1 != nullptr && list2 != nullptr){
-            if(list1->val >= list2->val){
-                temp->next = list2;
-                list2 = list2->next;
-            }else{
-                temp->next = list1;
-                list1 = list1->next;
+        
+        while(left && right){
+            if(left->val <= right->val){
+                temp->next = left;
+                left = left->next;
+            }
+            else{
+                temp->next = right;
+                right = right->next;
             }
             temp = temp->next;
         }
 
-        if(list1 != nullptr){
-            temp->next = list1;
-        }else{
-            temp->next = list2;
+        //push remaining
+        if(left){
+            temp->next = left;
+        }
+        else{
+            temp->next = right;
         }
 
         return dummy->next;
+
     }
 
-    ListNode* sortList(ListNode* head) {
-        if(!head || !head->next) return head;
+    ListNode* middle(ListNode* head){
+        if(head==nullptr && head->next == nullptr){
+            return head;
+        }
 
         ListNode* slow = head;
         ListNode* fast = head->next;
@@ -45,14 +52,25 @@ public:
             fast = fast->next->next;
         }
 
-        ListNode* left = head;
-        ListNode* right = slow->next;
+        return slow;
+    }
 
-        slow->next = nullptr;
+    ListNode* sortList(ListNode* head) {
+        if(head==nullptr || head->next == nullptr){
+            return head;
+        }
+
+        //middle
+        ListNode* middlee = middle(head);
+
+        ListNode* right = middlee->next;
+        middlee->next = nullptr;
+        ListNode* left = head;
 
         left = sortList(left);
         right = sortList(right);
 
         return merge(left, right);
     }
+
 };
