@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ometiwari-ai/LeetCode/tree/master/0069-sqrtx) |
 | [0396-rotate-function](https://github.com/ometiwari-ai/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/ometiwari-ai/LeetCode/tree/master/0788-rotated-digits) |
+| [1922-count-good-numbers](https://github.com/ometiwari-ai/LeetCode/tree/master/1922-count-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ometiwari-ai/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ometiwari-ai/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ometiwari-ai/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/ometiwari-ai/LeetCode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
