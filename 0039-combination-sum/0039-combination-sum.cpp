@@ -2,16 +2,14 @@ class Solution {
 public:
     void getAllCombination(vector<int>& nums, int target, set<vector<int>>&ans, vector<int>& curr, int idx){
 
-        if(idx == nums.size()) return;
-
-        if(target < 0){
-            return;
-        }
+        if(idx == nums.size() || target < 0) return;
 
         if(target == 0){
-            ans.insert(curr);
-        }
-
+            if(ans.find(curr) == ans.end()){
+                ans.insert(curr);
+                return;
+            }
+        }   
 
         //include this and move to next
         curr.push_back(nums[idx]);
