@@ -1,36 +1,31 @@
 class Solution {
 public:
-    void getAllCombination(vector<int>& nums, int target, set<vector<int>>&ans, vector<int>& curr, int idx){
+    void getComb(vector<int>& nums, int idx, int tar, vector<int>&curr, vector<vector<int>>& ans){
+        //Base Case
+        if(idx == nums.size() || tar < 0){
+            return;
+        }
+        if(tar == 0){
+            ans.push_back(curr);
+            return;
+        }
 
-        if(idx == nums.size() || target < 0) return;
-
-        if(target == 0){
-            if(ans.find(curr) == ans.end()){
-                ans.insert(curr);
-                return;
-            }
-        }   
-
-        //include this and move to next
+        // include + dont move next
         curr.push_back(nums[idx]);
-        getAllCombination(nums, target-nums[idx], ans, curr, idx+1);
-
-        // include this multiple time
-        getAllCombination(nums, target-nums[idx], ans, curr, idx);
+        getComb(nums, idx, tar-nums[idx], curr, ans);
 
         //backtrack
         curr.pop_back();
 
-        // exclude this and move to next
-        getAllCombination(nums, target, ans, curr, idx+1);
-
+        //exclude + move next
+        getComb(nums, idx+1, tar, curr, ans);
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        set<vector<int>> ans;
+        vector<vector<int>> ans;
         vector<int> curr;
 
-        getAllCombination(candidates, target, ans, curr, 0);
-        return vector<vector<int>>(ans.begin(), ans.end());
+        getComb(candidates, 0, target, curr, ans);
+        return ans;
     }
 };
