@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ometiwari-ai/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ometiwari-ai/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ometiwari-ai/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ometiwari-ai/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/ometiwari-ai/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ometiwari-ai/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ometiwari-ai/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ometiwari-ai/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String Matching
 |  |
 | ------- |
