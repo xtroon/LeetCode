@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ometiwari-ai/LeetCode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/ometiwari-ai/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ometiwari-ai/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/ometiwari-ai/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ometiwari-ai/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/ometiwari-ai/LeetCode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/ometiwari-ai/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ometiwari-ai/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ometiwari-ai/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ometiwari-ai/LeetCode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/ometiwari-ai/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ometiwari-ai/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ometiwari-ai/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/ometiwari-ai/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ometiwari-ai/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ometiwari-ai/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ometiwari-ai/LeetCode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/ometiwari-ai/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ometiwari-ai/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
