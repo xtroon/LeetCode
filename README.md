@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ometiwari-ai/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ometiwari-ai/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ometiwari-ai/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
@@ -265,4 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ometiwari-ai/LeetCode/tree/master/0079-word-search) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ometiwari-ai/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ometiwari-ai/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
