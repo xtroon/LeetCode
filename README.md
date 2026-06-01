@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ometiwari-ai/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ometiwari-ai/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2104-sum-of-subarray-ranges](https://github.com/ometiwari-ai/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ometiwari-ai/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ometiwari-ai/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ometiwari-ai/LeetCode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/ometiwari-ai/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ometiwari-ai/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ometiwari-ai/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/ometiwari-ai/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ometiwari-ai/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ometiwari-ai/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
