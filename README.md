@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ometiwari-ai/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ometiwari-ai/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ometiwari-ai/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2104-sum-of-subarray-ranges](https://github.com/ometiwari-ai/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ometiwari-ai/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ometiwari-ai/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ometiwari-ai/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ometiwari-ai/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/ometiwari-ai/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Linked List
 |  |
 | ------- |
@@ -303,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ometiwari-ai/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ometiwari-ai/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ometiwari-ai/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/ometiwari-ai/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
