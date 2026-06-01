@@ -1,28 +1,37 @@
 class Solution {
 public:
     string removeKdigits(string num, int k) {
-        string ans;
-        // remove big numb. if got small num
-        for (int i = 0; i < num.size(); i++) {
-            while (!ans.empty() && k > 0 && ans.back() > num[i]) {
-                ans.pop_back();
+        //simple condn. early exit
+        if(k >= num.size()) return "0";
+
+        // build stack
+        stack<char> st;
+        for(char ch : num){
+            while(!st.empty() && k>0 && st.top()>ch){
+                st.pop();
                 k--;
             }
-            ans.push_back(num[i]);
+            st.push(ch);
         }
 
-        // if k left  - remove from last
-        while (k > 0) {
-            ans.pop_back();
+        //if still k left - remove form back
+        while(!st.empty() && k>0){
+            st.pop();
             k--;
         }
 
-        //remove leading zeroes
-        int i = 0;
-        while (i < ans.size() && ans[i] == '0') {
-            i++;
+        // move to stirng 
+        string ans;
+        while(!st.empty()){
+            ans.push_back(st.top());
+            st.pop();
         }
-        string res = ans.substr(i);
-        return res.empty() ? "0" : res;
+
+        // remove leading zeroes - curretly we hv reversed strign as popped from stack
+        while(!ans.empty() && ans.back() == '0') ans.pop_back();
+
+        //reverse and return
+        reverse(ans.begin(), ans.end());
+        return ans.empty() ? "0" : ans;
     }
 };
